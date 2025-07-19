@@ -1,0 +1,6 @@
+{
+  "modules": ["fuel_mgmt", "magnet_control", "solar_input", "regen_brake", "cooling"],
+  "communication": "CAN Bus",
+  "adaptive_logic": true,
+  "AI_override": true
+}

@@ -1,0 +1,2 @@
+Please generate schematics based on the modular hydrogen-electric magnetic piston engine design.
+Refer to `docs/modularity_spec.md` and visualize solar wing channels, cooling systems, and scalable blocks.
